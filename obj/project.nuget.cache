@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wk0dZ9vbSh+OCkcHYxDfl+MXwYkPu9mT5kCjGn1ii0XDuKSeXt277rHp01+bVYt/3GN9E57cAKimcQ1WuAHdeg==",
+  "success": true,
+  "projectFilePath": "/Users/mateuszkaczor/Desktop/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateuszkaczor/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
